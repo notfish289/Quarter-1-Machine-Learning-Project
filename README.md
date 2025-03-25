@@ -71,6 +71,7 @@ Performance Metrics
 Accuracy: Selected as the primary performance metric due to minimal class imbalance (56% yes, 44% no).
 
 Additional Evaluation: Precision, recall, and confusion matrices were used to assess model performance.
+
 **Replicating Results**
 
 Load select training and testing dataset in WEKA, utilize the classify tab and test the accuracy. To obtain the particular splits of attributes, use the specified attribute selection methods. 
